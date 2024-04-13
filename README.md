@@ -20,3 +20,5 @@ Exiled.Plugin.Template:
   # Are debug messages displayed?
   debug: false
 ```
+
+###### Плагин был написан в соответствии с официальной документацией на сайте [Exiled](https://www.exiled.to/Archive/Documentation) и не проверялся на локальном сервере.
