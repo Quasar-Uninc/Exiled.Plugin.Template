@@ -11,7 +11,7 @@ namespace Exiled.Plugin.Template
         public override string Name => "Exiled.Plugin.Template";
         public override string Author => "Quasar-Uninc.";
         public override Version Version => new Version(1, 0, 0);
-        public override Version RequiredExiledVersion => new Version(8, 8, 0);
+        public override Version RequiredExiledVersion => new Version(8, 8, 1);
 
         public static Plugin Instance;
         private EventHandlers _handlers;
